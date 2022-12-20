@@ -1,20 +1,3 @@
-
-Gifftybabe
-/
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-higher_level_programming/0x05-python-exceptions/103-python.c
-@Gifftybabe
-Gifftybabe three C functions that print some basic info about Python lists
- 1 contributor
-Executable File  82 lines (78 sloc)  1.81 KB
 #include <Python.h>
 #include <stdio.h>
 /**
